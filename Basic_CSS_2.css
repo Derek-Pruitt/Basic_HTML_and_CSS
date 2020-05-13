@@ -1,0 +1,26 @@
+html {background-color:olive}
+p   {color:palegoldenrod;
+	background-color:midnightblue;
+	text-align:center
+}
+h1	{text-shadow:3px 3px darkorange;
+	color:palegoldenrod;
+	text-align:center
+}
+table	{background-color:palegoldenrod;
+		font-size:large;
+		border:6px solid silver
+}
+/*I want to add like a caution tape around the table for the border*/
+td:hover	{background-color:black;
+			color:chartreuse
+}
+ul	{color:palegoldenrod;
+	list-style-type:square
+}
+ol	{color:palegoldenrod;
+	list-style-type:upper-roman
+}
+/*i want this setup for my own page*/
+/*side note I want to learn spacing in css to space out things better*/
+	  	
