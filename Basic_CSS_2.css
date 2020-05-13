@@ -9,7 +9,10 @@ h1	{text-shadow:3px 3px darkorange;
 }
 table	{background-color:palegoldenrod;
 		font-size:large;
-		border:6px solid silver
+		border:6px solid silver;
+		text-align:center;
+		margin-left:auto;
+		margin-right:auto
 }
 /*I want to add like a caution tape around the table for the border*/
 td:hover	{background-color:black;
